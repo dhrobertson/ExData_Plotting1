@@ -1,4 +1,4 @@
-setwd("~/Documents/Coursera/ExploratoryDataAnalysis/Week1")
+setwd("~/Documents/Coursera/ExploratoryDataAnalysis/ExData_Plotting1")
 
 ## Need to use data <- get_data() from "getData.R" to load data
 

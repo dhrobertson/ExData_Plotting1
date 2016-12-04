@@ -1,4 +1,4 @@
-setwd("~/Documents/Coursera/ExploratoryDataAnalysis/Week1")
+setwd("~/Documents/Coursera/ExploratoryDataAnalysis/ExData_Plotting1")
 
 get_data <- function() {
 
